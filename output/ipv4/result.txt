@@ -1,15 +1,25 @@
 🕘️更新时间,#genre#
-2026-07-18 06:53:04,http://198.204.228.26/live/cctv5p.m3u8
+2026-07-18 19:11:59,http://125.42.148.25:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-2,http://125.42.148.25:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
+CCTV-4,http://125.42.148.232:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
+CCTV-5,http://125.42.148.25:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://125.42.148.232:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-7,http://125.42.148.114:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://125.42.148.232:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
+CCTV-14,http://125.42.148.25:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://125.42.148.232:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://125.42.148.232:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
@@ -17,10 +27,14 @@ CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://125.42.148.232:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://125.42.148.25:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+安徽卫视,http://125.42.148.232:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
+东南卫视,http://125.42.148.232:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
@@ -48,8 +62,6 @@ CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
@@ -88,7 +100,6 @@ CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 
 ☘️湖北频道,#genre#
-武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 ☘️广西频道,#genre#
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
@@ -153,8 +164,6 @@ CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,rtmp://play.kankanlive.com/live/1680577080200944
-秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8
-西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
 
 ☘️新疆频道,#genre#
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
